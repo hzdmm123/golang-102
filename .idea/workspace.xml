@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cb1b9e1-777d-481b-af0b-9b6f0a11c669" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1XYvNXeB1kv84PQACxbErPDCeLt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Test.BenchmarkGpool in golang-interview/gpool">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="golang-102" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="golang-interview" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkGpool in golang-interview/gpool" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-102" />
+      <working_directory value="$PROJECT_DIR$/gpool" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="golang-interview/gpool" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkGpool$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDemo3 in golang-interview/learn" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-102" />
+      <working_directory value="$PROJECT_DIR$/learn" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="golang-interview/learn" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestDemo3$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDemo4 in golang-interview/learn" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-102" />
+      <working_directory value="$PROJECT_DIR$/learn" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="golang-interview/learn" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestDemo4$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewPool in golang-interview/gpool" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-102" />
+      <working_directory value="$PROJECT_DIR$/gpool" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="golang-interview/gpool" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNewPool$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewpool in golang-interview/gpool" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-102" />
+      <working_directory value="$PROJECT_DIR$/gpool" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="golang-interview/gpool" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestNewpool$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="golang-102" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="golang-interview" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.BenchmarkGpool in golang-interview/gpool" />
+        <item itemvalue="Go Test.TestNewPool in golang-interview/gpool" />
+        <item itemvalue="Go Test.TestNewpool in golang-interview/gpool" />
+        <item itemvalue="Go Test.TestDemo4 in golang-interview/learn" />
+        <item itemvalue="Go Test.TestDemo3 in golang-interview/learn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="409" key="Github.ShareDialog" timestamp="1585643612499">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="675" y="409" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1585643612499" />
+    <state width="1626" height="299" key="GridCell.Tab.0.bottom" timestamp="1585564005842">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="2508" height="505" key="GridCell.Tab.0.bottom/0.-1417.2560.1417/45.23.1635.1027@0.-1417.2560.1417" timestamp="1581429154651" />
+    <state width="2508" height="823" key="GridCell.Tab.0.bottom/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581766748359" />
+    <state width="1626" height="299" key="GridCell.Tab.0.bottom/0.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1585564005842" />
+    <state width="1626" height="822" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585557545160" />
+    <state width="1626" height="299" key="GridCell.Tab.0.center" timestamp="1585564005840">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="2508" height="505" key="GridCell.Tab.0.center/0.-1417.2560.1417/45.23.1635.1027@0.-1417.2560.1417" timestamp="1581429154650" />
+    <state width="2508" height="823" key="GridCell.Tab.0.center/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581766748357" />
+    <state width="1626" height="299" key="GridCell.Tab.0.center/0.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1585564005840" />
+    <state width="1626" height="822" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585557545158" />
+    <state width="1626" height="299" key="GridCell.Tab.0.left" timestamp="1585564005838">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="2508" height="505" key="GridCell.Tab.0.left/0.-1417.2560.1417/45.23.1635.1027@0.-1417.2560.1417" timestamp="1581429154649" />
+    <state width="2508" height="823" key="GridCell.Tab.0.left/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581766748356" />
+    <state width="1626" height="299" key="GridCell.Tab.0.left/0.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1585564005838" />
+    <state width="1626" height="822" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585557545157" />
+    <state width="1626" height="299" key="GridCell.Tab.0.right" timestamp="1585564005841">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="2508" height="505" key="GridCell.Tab.0.right/0.-1417.2560.1417/45.23.1635.1027@0.-1417.2560.1417" timestamp="1581429154651" />
+    <state width="2508" height="823" key="GridCell.Tab.0.right/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581766748358" />
+    <state width="1626" height="299" key="GridCell.Tab.0.right/0.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1585564005841" />
+    <state width="1626" height="822" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585557545159" />
+    <state width="2508" height="505" key="GridCell.Tab.1.bottom" timestamp="1581429154656">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2508" height="505" key="GridCell.Tab.1.bottom/0.-1417.2560.1417/45.23.1635.1027@0.-1417.2560.1417" timestamp="1581429154656" />
+    <state width="2508" height="505" key="GridCell.Tab.1.bottom/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581237176197" />
+    <state width="2508" height="505" key="GridCell.Tab.1.center" timestamp="1581429154653">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2508" height="505" key="GridCell.Tab.1.center/0.-1417.2560.1417/45.23.1635.1027@0.-1417.2560.1417" timestamp="1581429154653" />
+    <state width="2508" height="505" key="GridCell.Tab.1.center/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581237176195" />
+    <state width="2508" height="505" key="GridCell.Tab.1.left" timestamp="1581429154652">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2508" height="505" key="GridCell.Tab.1.left/0.-1417.2560.1417/45.23.1635.1027@0.-1417.2560.1417" timestamp="1581429154652" />
+    <state width="2508" height="505" key="GridCell.Tab.1.left/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581237176195" />
+    <state width="2508" height="505" key="GridCell.Tab.1.right" timestamp="1581429154655">
+      <screen x="0" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2508" height="505" key="GridCell.Tab.1.right/0.-1417.2560.1417/45.23.1635.1027@0.-1417.2560.1417" timestamp="1581429154655" />
+    <state width="2508" height="505" key="GridCell.Tab.1.right/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581237176196" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1581766696117">
+      <screen x="0" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.-1440.2560.1440/0.0.1680.1050@0.-1440.2560.1440" timestamp="1581766696117" />
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1" timestamp="1585564294727">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1/0.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1585564294727" />
+    <state x="100" y="100" width="1480" height="850" key="dock-window-2" timestamp="1585564294729">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="dock-window-2/0.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1585564294729" />
+  </component>
+</project>
